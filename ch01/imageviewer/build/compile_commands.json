@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sotsoguk/projects/openCV_book/ch01/imageviewer/build",
+  "command": "/usr/bin/g++ -isystem /usr/include/opencv4 -g -o CMakeFiles/imViewer.dir/imViewer.cpp.o -c /home/sotsoguk/projects/openCV_book/ch01/imageviewer/imViewer.cpp",
+  "file": "/home/sotsoguk/projects/openCV_book/ch01/imageviewer/imViewer.cpp"
+}
+]

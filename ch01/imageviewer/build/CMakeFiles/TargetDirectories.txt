@@ -1,0 +1,5 @@
+/home/sotsoguk/projects/openCV_book/ch01/imageviewer/build/CMakeFiles/imViewer.dir
+/home/sotsoguk/projects/openCV_book/ch01/imageviewer/build/CMakeFiles/package.dir
+/home/sotsoguk/projects/openCV_book/ch01/imageviewer/build/CMakeFiles/package_source.dir
+/home/sotsoguk/projects/openCV_book/ch01/imageviewer/build/CMakeFiles/edit_cache.dir
+/home/sotsoguk/projects/openCV_book/ch01/imageviewer/build/CMakeFiles/rebuild_cache.dir

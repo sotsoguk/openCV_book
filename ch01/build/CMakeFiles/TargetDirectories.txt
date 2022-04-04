@@ -1,0 +1,4 @@
+/home/sotsoguk/projects/openCV_book/ch01/build/CMakeFiles/imViewer.dir
+/home/sotsoguk/projects/openCV_book/ch01/build/CMakeFiles/camViewer.dir
+/home/sotsoguk/projects/openCV_book/ch01/build/CMakeFiles/edit_cache.dir
+/home/sotsoguk/projects/openCV_book/ch01/build/CMakeFiles/rebuild_cache.dir
